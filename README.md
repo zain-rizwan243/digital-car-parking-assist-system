@@ -46,7 +46,7 @@ and the system does not need to keep running.
 - Arduino IDE
 
 ## Circuit Diagram
-[Drag your circuit diagram image here]
+<img width="624" height="657" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/f66b6cf3-8b31-496f-b15a-504dd80788be" />
 
 ## Code
 The sketch is in `parking_assist.ino`. Two settings at the top control
